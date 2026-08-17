@@ -1,0 +1,7 @@
+"user_segment","last_action","count_action","share"
+repeated,cart,7165,5.81
+repeated,purchase,13469,10.93
+repeated,view,102639,83.26
+single,cart,20418,3.55
+single,purchase,38669,6.72
+single,view,516520,89.73

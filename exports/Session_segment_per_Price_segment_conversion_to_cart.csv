@@ -1,0 +1,7 @@
+"session_segment","price_segment","uniq_count_view","uniq_count_cart","conversion_to_cart"
+repeated,cheap,7998,1298,16.23
+repeated,expensive,14819,4804,32.42
+repeated,medium,37268,9560,25.65
+single,cheap,52797,2828,5.36
+single,expensive,61276,5118,8.35
+single,medium,251094,14568,5.80

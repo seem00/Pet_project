@@ -1,0 +1,10 @@
+"firsts_session","seconds_session","count_events","share"
+cart,cart,428,11.45
+cart,purchase,820,21.94
+cart,view,2490,66.61
+purchase,cart,756,14.48
+purchase,purchase,1520,29.11
+purchase,view,2946,56.42
+view,cart,2412,5.57
+view,purchase,2523,5.83
+view,view,38340,88.60

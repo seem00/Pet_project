@@ -1,0 +1,13 @@
+"user_segment","category_lvl_1","share"
+repeated,appliances,5.82
+repeated,auto,4.78
+repeated,computers,50.97
+repeated,construction,4.65
+repeated,electronics,26.37
+repeated,stationery,7.41
+single,appliances,8.23
+single,auto,6.21
+single,computers,39.35
+single,construction,5.35
+single,electronics,32.56
+single,stationery,8.30
